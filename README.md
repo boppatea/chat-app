@@ -1,3 +1,6 @@
 # chat-app
 
-Real-Time web-app with socket.io & express (simple chat-app)
+Usage:
+gitclone into a local directory
+install npm modules: socket.io & express
+run "node src/index.js"
