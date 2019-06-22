@@ -1,6 +1,6 @@
 # chat-app
 
 Usage:
-gitclone into a local directory
-install npm modules: socket.io & express
-run "node src/index.js"
+1) gitclone into a local directory
+2) install npm modules: socket.io & express
+3) run "node src/index.js"
